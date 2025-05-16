@@ -57,13 +57,16 @@ perl pipeview.pl trace.out
 
 ## 📤 4. Output Samples
 Using sim-pipe with forwarding:
+
 ![Screenshot 2025-05-16 112905](https://github.com/user-attachments/assets/220cbb76-9ad1-445f-a1cb-c75b2609cb3a)
 ![Screenshot 2025-05-16 112851](https://github.com/user-attachments/assets/b3930718-f0a2-460b-a1bc-60ad4b1ab2b0)
 
 Using sim-pipe without forwarding:
+
 ![Screenshot 2025-05-16 112939](https://github.com/user-attachments/assets/d5cf0698-51cc-43e3-952f-0abb0426b921)
 ![Screenshot 2025-05-16 112927](https://github.com/user-attachments/assets/274579fb-c5cd-4394-ba4d-6965af8213c5)
 
 Using sim-outorder:
+
 ![Screenshot 2025-05-16 113308](https://github.com/user-attachments/assets/9a87a1a9-797f-4bfa-99e7-91250c7b9a47)
 
