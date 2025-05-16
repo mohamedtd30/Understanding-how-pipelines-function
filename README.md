@@ -46,10 +46,11 @@ Pipeline latches (`stage_latch` structs) were used to carry information between 
 
 **Verification Testing:**
 ```bash
+# To verify our model, We tested our pipeline simulator using:
 ./sim-pipe -v -max:inst 20 tests/bin/test-math 
 ./sim-pipe -v -max:inst 20 -do:forwarding true tests/bin/test-math
 
-# Reference comparison
+# Additionally, we explored using sim-outorder, with these custom settings:
 sim-outorder -issue:inorder true -decode:width 1 -issue:width 1 -commit:width 1 -ptrace trace.out 0:4 tests/bin/test-math
 perl pipeview.pl trace.out
 
