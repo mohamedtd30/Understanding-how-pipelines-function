@@ -70,8 +70,12 @@ perl pipeview.pl trace.out
 
 ## Team members 
 **Mohamed Toukhy Mohamed Ahmed**
+
 **Mahmoud Atef Mahmoud Abdelaziz**
+
 **Mahmoud Atef Mahmoud Gohnem**
+
 **Ali Hossam Ali**
+
 **Yassin Ahmed Nassr**
 
