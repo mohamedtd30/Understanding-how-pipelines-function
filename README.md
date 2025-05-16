@@ -53,6 +53,7 @@ Pipeline latches (`stage_latch` structs) were used to carry information between 
 # Additionally, we explored using sim-outorder, with these custom settings:
 sim-outorder -issue:inorder true -decode:width 1 -issue:width 1 -commit:width 1 -ptrace trace.out 0:4 tests/bin/test-math
 perl pipeview.pl trace.out
+```
 
 ## 📤 4. Output Samples
 Using sim-pipe with forwarding:
