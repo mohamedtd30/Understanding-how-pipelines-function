@@ -68,7 +68,12 @@ perl pipeview.pl trace.out
 
 ![Screenshot 2025-05-16 113308](https://github.com/user-attachments/assets/9a87a1a9-797f-4bfa-99e7-91250c7b9a47)
 
-## Team members 
+**Course Code & Title:** ECE322C Computer Architecture
+
+**Course Coordinator:** Dr. May Salama
+
+**Team members**
+
 **Mohamed Toukhy Mohamed Ahmed**
 
 **Mahmoud Atef Mahmoud Abdelaziz**
