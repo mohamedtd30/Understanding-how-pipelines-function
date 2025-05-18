@@ -249,7 +249,7 @@ Key achievements of this project include:
 - [Mahmoud Atef Mahmoud Abdelaziz](https://github.com/Mahmoud8513)
 - [Mahmoud Atef Mahmoud Gohnem](https://github.com/Mahmoud-Gohnem)
 - [Ali Hossam Ali](https://github.com/AliHossam22)
-- [Yassin Ahmed Nassr](https://github.com/YassinNassr)
+- [Yassin Ahmed Nasr](https://github.com/yassinjag5)
 
   
 
