@@ -248,7 +248,7 @@ Key achievements of this project include:
 - [Mohamed Toukhy Mohamed Ahmed](https://github.com/mohamedtd30)
 - [Mahmoud Atef Mahmoud Abdelaziz](https://github.com/Mahmoud8513)
 - [Mahmoud Atef Mahmoud Gohnem](https://github.com/atefghonem10)
-- [Ali Hossam Ali](https://github.com/AliHossam22)
+- [Ali Hossam Ali](https://github.com/AliHossamTesla)
 - [Yassin Ahmed Nasr](https://github.com/yassinjag5)
 
   
